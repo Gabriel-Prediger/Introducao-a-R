@@ -28,3 +28,11 @@ The work to be performed in this repository is as follows:
 #12 Title_english. <br>
   
 ![Sample_of_Data](https://github.com/gabriextremo/Introducao-a-R/assets/48864607/5a807a95-8465-4a66-8ea2-f0fdc8b06be4)
+  
+
+# The analysis <h5>
+<p> With all this data in hand it's time to work on it, to create some kind of information.<p>
+<p> Firstly we would analise the score, of any given anime, given some other parameters, as such we need to see if there is some correlation between the score of an anime and the total number of users who added it to their lists<p>
+![](https://github.com/gabriextremo/Introducao-a-R/assets/48864607/b055d0f7-c706-423d-a6e1-cfc84c4a46e3)
+
+<p><p>
